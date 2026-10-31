@@ -1,0 +1,1 @@
+import{a as e,c as t,r as n,s as r,t as i}from"./styles-GUOmIFxd.js";var a=t(r(),1),o=e(),s=n(),c=document.getElementById(`root`);if(!c)throw Error(`Missing root`);(0,o.createRoot)(c).render((0,s.jsx)(a.StrictMode,{children:(0,s.jsx)(i,{timeLink:e=>(0,s.jsx)(`a`,{href:`./time.html`,...e})})}));
